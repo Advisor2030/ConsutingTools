@@ -1120,6 +1120,9 @@ section.lazy-placeholder:after {
 .cid-qKSeIL708B .mbr-text {
   color: #333333;
 }
+.cid-qKSeIL708B H1 {
+  color: #333333;
+}
 .cid-spyzSb6jKd {
   padding-top: 0px;
   background-image: url("../../../assets/images/background8-1.jpg");
@@ -1775,7 +1778,7 @@ section.lazy-placeholder:after {
 @showBrand: true;
 @showItems: true;
 @showIcons: true;
-@iconsAmount: "6";
+@iconsAmount: "3";
 @showButtons: true;
 @sticky: true;
 @collapsed: false;
